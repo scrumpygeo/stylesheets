@@ -1,0 +1,1 @@
+Replace default stylesheets from rails new with custom components etc.
